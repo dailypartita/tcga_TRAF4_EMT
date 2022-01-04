@@ -1,0 +1,4 @@
+Rscript BRCA_TRAF4nEMT.R &
+Rscript COAD_TRAF4nEMT.R &
+Rscript GBM_TRAF4nEMT.R &
+Rscript LGG_TRAF4nEMT.R &
